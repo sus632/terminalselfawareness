@@ -1,0 +1,41 @@
+@font-face {
+font-family: 'VCR OSD Mono';
+src: url('../font/VCR_OSD_MONO_1.001.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+p {
+    font-size: 23px;
+}
+.reveal {
+    font-size: 34px:
+}
+header {
+    background-color: #FB6107;
+}
+header, p {
+  text-align: center;
+}
+body, h1 {
+    text-align: center;
+    color: white
+}
+body {
+    background-color: #0C120C;
+}
+p {
+    text-align: left;
+}
+footer {
+    background-color: #FBB02D;
+}
+a {
+    border: solid #76818E 1px;
+    background: #76818E;
+    text-decoration: none;
+    color: black;
+    font-size: 32px;
+}
+.lorenstuff {
+    background: #414A4D;
+}
